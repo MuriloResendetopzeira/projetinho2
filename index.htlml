@@ -1,0 +1,33 @@
+<!DOCTYPE html> 
+  <html lang="pt-BR"> 
+  <head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Blog de Tecnologia e Educação</title>
+  
+  <style>
+  body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+  header { background-color: #183C63; color: #FFFFFF; text-align: center; max-width: 800px; margin: 0 auto; padding: 16px; /* border: 5px solid #cf1010; -> Linha de teste removida */ }
+
+main { max-width: 800px; margin: 0 auto; padding: 16px; background-color: #ffffff; } img { width: 80px; height: 80px; display: block; margin: 15px auto; /* Centraliza a imagem na tela */ }
+  
+  </style>
+  </head>
+  <body>
+  <header> 
+  <h1>Tecnologia e Educação</h1>
+  <img src="imagem-blog.png" alt="logotipo conceitual de tecnologia e educação: um livro aberto de onde emerge um cérebro digital brilhante, cercado por ícones de Wi-Fi, circuitos e lâmpada de ideia. Cores em tons de azul e branco.">
+  </header>
+  
+  <main>
+  <h2>O que aprendemos hoje?</h2>
+  <p>Entendemos como o navegador organiza os espaços na tela através do <strong>Box Model</strong>:</p>
+  <ul>
+  <li><strong>Margin:</strong> Espaçamento externo (usado para centralizar o site).</li>
+  <li><strong>Padding:</strong> Espaçamento interno (para o texto não ficar colado nas bordas).</li>
+  <li><strong>Border:</strong> O limite visual do elemento.</li>
+  </ul>
+  <p>Também aprendemos a importância do atributo <code>alt</code> nas imagens para garantir acessibilidade!</p>
+</main>
+</body>
+</html>
