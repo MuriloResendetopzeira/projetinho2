@@ -38,8 +38,8 @@ Se você deseja clonar este repositório e rodar o projeto na sua máquina, siga
 
 Fique à vontade para se conectar comigo ou deixar seu feedback sobre o blog!
 
-- **Website / Blog:** 
-- **LinkedIn:** 
+- **Website / Blog:** https://muriloresendetopzeira.github.io/projetinho2/
+- **LinkedIn:** não tenho '-'
 - **E-mail:** resende.murilo@escola.pr.gov.br
 
 ---
