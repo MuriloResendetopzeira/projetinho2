@@ -1,12 +1,12 @@
 # 📝 BLOG DO MURILO
 
-> Um blog pessoal desenvolvido para compartilhar minhas experiências, aprendizados e pensamentos sobre [Seu Nicho/Assunto principal - ex: tecnologia, design, viagens].
+> Um blog pessoal desenvolvido para compartilhar minhas experiências, aprendizados e pensamentos sobre curiosidades do mundo alheio
 
 🎨 
 
 ## 🚀 Sobre o Projeto
 
-Este projeto é o meu canto pessoal na web. O objetivo principal deste blog é documentar a minha jornada como [Sua Profissão/Estudante - ex: Desenvolvedor(a) Software], criando artigos práticos e reflexões sobre os desafios que enfrento no dia a dia.
+Este projeto é o meu canto pessoal na web. O objetivo principal deste blog é documentar a minha jornada de aprendizagem sobre curiosidades, criando artigos práticos e reflexões sobre os desafios que enfrento no dia a dia.
 
 Aqui você encontrará textos sobre:
 - 💻 Desenvolvimento Web e código limpo.
@@ -44,3 +44,4 @@ Fique à vontade para se conectar comigo ou deixar seu feedback sobre o blog!
 
 ---
 Desenvolvido com ☕ e ❤️ por Murilo Resende
+
