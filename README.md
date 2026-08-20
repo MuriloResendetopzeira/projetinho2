@@ -1,10 +1,8 @@
-# 📝 [Nome do Seu Blog]
+# 📝 BLOG DO MURILO
 
 > Um blog pessoal desenvolvido para compartilhar minhas experiências, aprendizados e pensamentos sobre [Seu Nicho/Assunto principal - ex: tecnologia, design, viagens].
 
-🎨 **[Opcional: Insira aqui um link para a imagem do print do seu projeto ou um banner informativo]**
-
----
+🎨 
 
 ## 🚀 Sobre o Projeto
 
@@ -19,10 +17,8 @@ Aqui você encontrará textos sobre:
 
 O projeto foi construído utilizando as seguintes tecnologias e ferramentas:
 
-- **[Tecnologia 1 - ex: Next.js / React]** — Framework web principal.
-- **[Tecnologia 2 - ex: Tailwind CSS]** — Estilização e interface responsiva.
-- **[Tecnologia 3 - ex: Markdown / MDX]** — Gerenciamento e escrita dos posts do blog.
-- **[Tecnologia 4 - ex: Vercel]** — Plataforma de hospedagem e deploy.
+*Aulas do Alura 
+*Ajuda do maravilhoso Marcos Felix
 
 ## ✨ Funcionalidades
 
@@ -35,27 +31,6 @@ O projeto foi construído utilizando as seguintes tecnologias e ferramentas:
 
 Se você deseja clonar este repositório e rodar o projeto na sua máquina, siga os passos abaixo:
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com
-   ```
-
-2. **Entre no diretório do projeto:**
-   ```bash
-   cd nome-do-repositorio
-   ```
-
-3. **Instale as dependências:**
-   ```bash
-   npm install
-   # ou yarn install / pnpm install
-   ```
-
-4. **Inicie o servidor de desenvolvimento:**
-   ```bash
-   npm run dev
-   # ou yarn dev / pnpm dev
-   ```
 
 5. Abra o navegador em `http://localhost:3000` para ver o resultado.
 
@@ -63,9 +38,9 @@ Se você deseja clonar este repositório e rodar o projeto na sua máquina, siga
 
 Fique à vontade para se conectar comigo ou deixar seu feedback sobre o blog!
 
-- **Website / Blog:** [link-do-seu-blog.com](https://link-do-seu-blog.com)
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-- **E-mail:** seu.email@exemplo.com
+- **Website / Blog:** 
+- **LinkedIn:** 
+- **E-mail:** resende.murilo@escola.pr.gov.br
 
 ---
-Desenvolvido com ☕ e ❤️ por [Seu Nome].
+Desenvolvido com ☕ e ❤️ por Murilo Resende
